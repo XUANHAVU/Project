@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppMultiLanguage</string>
+    <string name="Confirm">Xác Nhận</string>
+    <string name="Email">Email</string>
+    <string name="Infomation">Phiếu Thông Tin</string>
+    <string name="Name">Họ và Tên</string>
+    <string name="Phone">Số Điện Thoại</string>
+    <string name="txt_Email">Email</string>
+    <string name="txt_Hello">Xin Chào</string>
+    <string name="txt_Phone">Số Điện Thoại</string>
+</resources>
